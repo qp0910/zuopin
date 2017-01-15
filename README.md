@@ -5,7 +5,7 @@
 ## https://qp0910.github.io/room/fangzi.html
 
 # 画板
-## https://qp0910.github.io/huaban/
+## https://qp0910.github.io/huaban/huaban.html
 
 # 新闻APP
 ## http://localhost:8888/
